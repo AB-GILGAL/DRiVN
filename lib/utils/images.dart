@@ -1,0 +1,29 @@
+class CustomeImages {
+  static String logo = "assets/images/logo.png";
+  static String car1 = "assets/images/car1.jpg";
+  static String car2 = "assets/images/car2.jpg";
+  static String car3 = "assets/images/car3.jpg";
+  static String car4 = "assets/images/car4.jpg";
+  static String onb1 = "assets/images/onb1.jpg";
+  static String onb2 = "assets/images/onb2.jpg";
+  static String onb3 = "assets/images/onb3.jpg";
+  static String reset = "assets/images/reset.png";
+  static String reset1 = "assets/images/reset1.png";
+  static String profile = "assets/images/profile.png";
+  static String book = "assets/images/book.png";
+  static String home = "assets/images/home.png";
+  static String like = "assets/images/like.png";
+  static String location = "assets/images/location.png";
+  static String location1 = "assets/images/location-tick.png";
+  static String menu = "assets/images/menu.png";
+  static String gas = "assets/images/gas.png";
+  static String door = "assets/images/door.png";
+  static String translate = "assets/images/translate.png";
+  static String devices = "assets/images/devices.png";
+  static String filter = "assets/images/filter.png";
+  static String ab = "assets/images/ab.jpeg";
+  static String confirm = "assets/images/confirm.jpeg";
+  static String ntm = "assets/images/ntm.png";
+  static String google = "assets/images/ggl.jpg";
+  static String logout = "assets/images/lgo1.png";
+}
